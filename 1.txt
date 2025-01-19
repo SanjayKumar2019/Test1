@@ -1,0 +1,14 @@
+tags:
+| foo: bar
+7. Chef
+8. Puppet
+9 .. Saltstack
+Break - 15 mins -- 09:50 AM IST -- continue
+Differnce Terraform Vs Cloudformation
+Pees Terraform Vs Ansible
+3 most common combinations
+iC Provisiong + Configuration Managment
+2. Provisionig + Server Templatin
+[__ +: Templating + Containers + Orchestratio
+
+

@@ -1,0 +1,47 @@
+tags:
+foo:
+bar
+7 .
+Chef
+8
+Puppet:
+Saltstack
+Break
+15
+mind
+5
+09:50
+of
+IST
+continue
+I f fence
+Terraform
+Is
+Cloudformation
+Difference
+Terraform
+Is
+Visible
+3
+most
+common
+combinations
+1 .
+Provisions
++
+Configuration
+Management
+2 .
+Provisioning
++
+Server
+Emulating
+3 .
+Provisions
++
+Emulating
++
+Container
++
+Orchestration
+
